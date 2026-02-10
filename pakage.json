@@ -1,0 +1,26 @@
+{
+  "name": "my-freelance-business",
+  "version": "1.0.0",
+  "description": "Freelance website business system with client forms and dashboard",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server public --port=3000",
+    "build": "echo 'No build step required'",
+    "deploy": "echo 'Deploy using Netlify CLI or Git push'"
+  },
+  "keywords": [
+    "freelance",
+    "web-design",
+    "client-management",
+    "dashboard",
+    "form"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "dependencies": {
+    "chart.js": "^4.3.0"
+  }
+}
